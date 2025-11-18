@@ -2,7 +2,7 @@
 
 Abaixo, uma demonstração prática do algoritmo **Shi-Tomasi** (também conhecido como *Good Features to Track*) em um cenário real. Os pontos verdes indicam as características (cantos) detectadas na imagem.
 
-![Detecção de Cantos com Shi-Tomasi](asstes/shi_tomasi_deteccao_rua.png)
+![Detecção de Cantos com Shi-Tomasi](assets/shi_tomasi_deteccao_rua.png)
 
 ### Importância e Aplicações
 
